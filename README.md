@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m a **B.Tech CSE Student** at Christ College of Engineering.  
-🚀 Recently built a **Full-Stack Voting Platform** using React and Firebase for WhiteMatrix.  
+🚀 Recently built a **Full-Stack Voting Platform** using React and Firebase. 
 👯 I’m looking to collaborate on open-source projects and exciting tech ventures.  
 🤝 I have a solid foundation in **Python** and **MySQL** and I'm currently expanding into modern web frameworks.  
 🌱 I’m currently mastering **React.js** and Cloud Integration.  
