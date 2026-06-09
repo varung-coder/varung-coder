@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+G+VARUN+👋;Web+Development+Intern;Full-Stack+React+%2B+Firebase+Developer;B.Tech+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+G+VARUN+👋;Full-Stack+React+%2B+Firebase+Developer;B.Tech+CSE+Student" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Turning complex logic into outstanding web experiences 🚀</h3>
@@ -23,7 +23,7 @@
 
 ## 💫 About Me
 
-- 💼 **Web Development Intern** at **Skill Craft Technology**
+- 💼 **Full Stack Developer** crafting modern, responsive web applications
 - 🎓 **B.Tech CSE Student** at Christ College of Engineering
 - 🚀 Passionate **Full Stack Developer** specializing in React.js and Firebase
 - 🤝 Looking to collaborate on open-source projects and exciting tech ventures
